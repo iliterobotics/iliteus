@@ -4,6 +4,9 @@ import Navbar from "../../components/navbar"
 import Footer from "../../components/footer"
 import favicon from "../../assets/icons/favicon.ico"
 
+// import all CSS here
+import "../../components/layout.css"
+
 // import less here - once, for the whole app
 import "../../config/main.less"
 
